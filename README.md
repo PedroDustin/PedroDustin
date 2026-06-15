@@ -1,13 +1,13 @@
 <div align="center">
   
-# Desenvolvedor Full-Stack: Pedro Henrique
+# <img height="40" src="./ImgGit/Batman.png" > Desenvolvedor Full-Stack: Pedro Henrique <img height="40" src="./ImgGit/Batman.png" >
 <br>
 
 <img height="200" src="./ImgGit/Batman01.png" >
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=0000FF9&width=900&lines=Desenvolvedor+Full-Stack;+Tecnologia+e+inovação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=0000FF9&width=900&lines=Desenvolvedor+Full-Stack+Tecnologia+e+inovação+" />
 </p>
 
 ## Sobre mim  
