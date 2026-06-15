@@ -23,13 +23,28 @@ Durante minha trajetória como desenvolvedor, adquiri conhecimento notáveis e a
 
 <br>
   
-# <img height="40" src="./ImgGit/Batman.png" > Habilidades Técnicas <img height="40" src="./ImgGit/Batman.png" > 
+<div align="center">
 
-| Backend | Ferramentas | Frontend
-| :---: | :---: |  :---: |
-| [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,nodejs,git,github,figma)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap)](https://skillicons.dev)
+# <img height="40" src="./ImgGit/Batman.png"> Habilidades Técnicas <img height="40" src="./ImgGit/Batman.png">
 
-<img src="./ImgGit/Batman05.png"> 
+<table>
+<tr>
+<td>
+
+| Backend | Ferramentas | Frontend |
+| :---: | :---: | :---: |
+| [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,nodejs,git,github,figma)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap)](https://skillicons.dev) |
+
+</td>
+
+<td>
+<img height="1000" src="./ImgGit/Batman05.com.png">
+</td>
+
+</tr>
+</table>
+
+</div>
 </div>
 
 <br>
