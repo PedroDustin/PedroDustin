@@ -43,8 +43,8 @@ Durante minha trajetória como desenvolvedor, adquiri conhecimento notáveis e a
 
 </td>
 
-<td>
-<img height="1000" src="./ImgGit/Batman05.com.png">
+<td width="2000">
+<img  src="./ImgGit/Batman05.com.png">
 </td>
 
 </tr>
