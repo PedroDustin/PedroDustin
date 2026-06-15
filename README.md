@@ -28,6 +28,8 @@ Durante minha trajetória como desenvolvedor, adquiri conhecimento notáveis e a
 | Backend | Ferramentas | Frontend
 | :---: | :---: |  :---: |
 | [![My Skills](https://skillicons.dev/icons?i=cs,dotnet)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=docker,nodejs,git,github,figma)](https://skillicons.dev) |  [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap)](https://skillicons.dev)
+
+<img src="./ImgGit/Batman05.png"> 
 </div>
 
 <br>
