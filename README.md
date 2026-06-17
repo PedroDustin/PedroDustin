@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=FFFF00&width=900&lines=Desenvolvedor+Full-Stack+Tecnologia+e+inovação;+Engenheiro+de+software+em+formação" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=500&color=003975&width=900&lines=Desenvolvedor+Full-Stack+Tecnologia+e+inovação;+Engenheiro+de+software+em+formação" />
 </p>
 
 # <img height="40" src="./ImgGit/Batman.png" > Sobre mim <img height="40" src="./ImgGit/Batman.png" > 
